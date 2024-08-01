@@ -69,7 +69,6 @@
 <h3> Generated machine code: </h3>
 
 `
-
 .temp.file.elf:     file format elf32-littleriscv
 
 SYMBOL TABLE:
@@ -236,7 +235,6 @@ Disassembly of section .text:
 000000f4 <__text_end>:
   f4:	0000                	c.unimp
 	...
- 
  `
 
 <h3> Converted in hex format: </h3>
