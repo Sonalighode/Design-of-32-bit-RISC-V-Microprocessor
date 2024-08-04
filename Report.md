@@ -5,6 +5,8 @@
   - Designe executes one instruction per clock cycle.
   - Implements a 32-bit RISC-V architecture, specifically supporting the RV32I instruction set with 30 instructions.
 
+![image](https://github.com/user-attachments/assets/54dccc56-5cb3-4d23-be6b-cbab0e0eba7f)
+
 ![image](https://github.com/user-attachments/assets/3e274621-bf3e-4a0d-a8ab-92b5ed32b0c4)
 
   - Capable of running C programs, which are compiled into machine code.
